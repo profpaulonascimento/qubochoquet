@@ -1,3 +1,5 @@
+import numpy as np
+
 def choquetIntegral(Set, measure, measureType = 'fuzzy'):
     """
     Calcula a Integral de Choquet para um conjunto e uma medida fornecidos.
